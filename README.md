@@ -1,8 +1,5 @@
 
 # Group_5_CSCN8020_Pacman
-Of course! Here's the complete `README.md` content in full — you can copy and paste this directly into your GitHub repository:
-
-
 
 # 🎮 MsPacman-v5 Reinforcement Learning using Deep Q-Network (DQN)
 
